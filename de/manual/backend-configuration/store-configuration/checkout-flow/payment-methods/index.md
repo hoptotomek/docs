@@ -18,6 +18,7 @@ Isotope eCommerce bietet dir eine Vielzahl an Zahlungsarten für die verschieden
 12. <docrobot_route name="payment-method-sparkasse">Sparkasse</docrobot_route>
 13. <docrobot_route name="payment-method-sofortueberweisung">sofortüberweisung.de</docrobot_route>
 14. <docrobot_route name="payment-method-worldpay">WorldPay</docrobot_route>
+15. <docrobot_route name="payment-method-quickpay">QuickPay</docrobot_route>
 
 <docrobot_message type="warning"><p>Beachte, dass jedes Zahlungsmodul selber dafür verantwortlich ist, wie die Bezahlung von statten geht und was anschliessend mit der Bestellung passiert. Es kann deshalb sein, dass obwohl ein Eingabefeld gleich benannt ist wie bei einer anderen Zahlungsart, das Verhalten nicht identisch ist. Deshalb ist es wichtig, dass die Dokumentation möglichst vollständig ist. Die Community ist somit auch auf deinen Beitrag angewiesen!</p></docrobot_message>
 
